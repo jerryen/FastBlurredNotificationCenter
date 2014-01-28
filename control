@@ -1,10 +1,9 @@
-Package: com.rpetrich.fastblurrednotificationcenter
-Name: FastBlurredNotificationCenter
-Version: 0.2
+Package: com.jerryen.fastblurrednotificationcenter7
+Name: FastBlurredNotificationCenter7
+Version: 0.3
 Architecture: iphoneos-arm
-Description: More efficient version of BlurriedNCBackground
-Maintainer: Ryan Petrich <rpetrich+fastblurrednotificationcenter@gmail.com>
-Author: Ryan Petrich <rpetrich+fastblurrednotificationcenter@gmail.com>
-Depends: mobilesubstrate, firmware (>= 5.0)
+Description: FastBlurredNotificationCenter updated for iOS 7
+Author: Jerry En <Jerry+fastblurrednotificationcenter@jerryen.com>
+Depiction: http://cydia.jerryen.com/fastblurrednotificationcenter7.html
+Depends: mobilesubstrate, firmware (>= 7.0)
 Section: Tweaks
-dev: rpetrich
